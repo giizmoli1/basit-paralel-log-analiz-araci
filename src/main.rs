@@ -50,3 +50,12 @@ fn main() {
     println!("WARN: {}", s1.warn + s2.warn);
     println!("ERROR: {}", s1.error + s2.error);
 }
+    println!("----------------------");
+
+if (s1.error + s2.error) > 0 {
+    println!("Dikkat: Sistem içerisinde hata kayitlari bulundu.");
+} else {
+    println!("Hata kaydi bulunmadi.");
+}
+
+    println!("Log analizi basariyla tamamlandi.");
