@@ -5,3 +5,7 @@ INFO Kullanıcı giriş yaptı
 ERROR Bağlantı hatası
 WARN Bellek kullanımı yüksek
 INFO İşlem tamamlandı
+INFO Yeni kullanıcı oluşturuldu
+WARN Ağ gecikmesi tespit edildi
+ERROR Veritabanı bağlantısı kesildi
+INFO Sistem kapatılıyor
